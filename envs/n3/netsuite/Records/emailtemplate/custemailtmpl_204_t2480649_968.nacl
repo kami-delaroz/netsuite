@@ -7,4 +7,5 @@ netsuite.emailtemplate custemailtmpl_204_t2480649_968 {
   name = "new_email_me"
   usesmedia = false
   content = file("netsuite/emailtemplate/custemailtmpl_204_t2480649_968.html")
+  description = "this is nothing"
 }
