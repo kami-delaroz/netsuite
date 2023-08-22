@@ -1,0 +1,157 @@
+netsuite.reportdefinition customreport_311_t2480649_515 {
+  scriptid = "customreport_311_t2480649_515"
+  definition = "9bff224551930bfed5302a910bdde8b483857b242a70a33526e298e0bb430ab1@GZC@2023.1.16@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"
+  name = "Custom Hosted Page Hits Summary"
+  components = [
+    {
+      KEY_COMPONENT = 115
+      FLAG_SECONDARY_DIM = false
+      FIELD_CLASS = "com.netledger.app.reporting.measure.NLHostedPageHitsMeasure"
+    },
+  ]
+  parameters = {
+    accounting_book_current_id = "1"
+    accounting_book_id = "1"
+  }
+  sorts = [
+    {
+      KEY_COMPONENT = "115"
+      FIELD_ALIAS = "nsize"
+      FIELD_TABLE = "mediaitem"
+      FIELD_TARGET_TABLE = "hostedpages"
+      FIELD_FOREIGN_KEY = "allhostedpage_key"
+      SEQ_NUMBER = 0
+      FLAG_DESCENDING = false
+      FLAG_SUBTOTAL = false
+    },
+  ]
+  fields = [
+    {
+      KEY_COMPONENT = 115
+      FIELD_ALIAS = "DATELOGGED"
+      FLAG_DIMENSION = false
+      FIELD_UNIT_TYPE = -1
+      FLAG_ROLLUP = true
+      FIELD_DATE_FILTER_INDEX = 0
+      FLAG_APPLY_FORWARDING = true
+      FLAG_MEASURE = false
+      SEQ_NUMBER = 1
+      FIELD_LABEL = "Date Hit Logged"
+      FLAG_DUAL_COLUMN = false
+      FLAG_PERCENT_TOTAL = false
+      FLAG_PERCENT_INCOME = false
+      FLAG_PERCENT_EXPENSE = false
+      FLAG_RUNNING_BAL = false
+      FLAG_SHOW_OPENING_BAL = false
+      FLAG_SHOW_ABS_DIFF = false
+      FLAG_SHOW_PCT_DIFF = false
+      FLAG_SUB_TOTAL = false
+      FLAG_DISPLAY = true
+      FLAG_DROP_DECIMAL = false
+      FLAG_DIV_BY_THOUSAND = false
+      FLAG_NEG_IN_RED = false
+      FIELD_NEG_VAL_FORMAT = "norm"
+      FIELD_FORMAT = "date"
+      FLAG_TOTAL_FORMULA = true
+    },
+    {
+      KEY_COMPONENT = 115
+      FIELD_TABLE = "MEDIAITEM"
+      FIELD_ALIAS = "NSIZE"
+      FIELD_TARGET_TABLE = "HOSTEDPAGES"
+      FIELD_FOREIGN_KEY = "ALLHOSTEDPAGE_KEY"
+      FLAG_DIMENSION = false
+      FIELD_UNIT_TYPE = -1
+      FLAG_ROLLUP = false
+      FIELD_DATE_FILTER_INDEX = 0
+      FLAG_APPLY_FORWARDING = true
+      FLAG_MEASURE = true
+      SEQ_NUMBER = 2
+      FIELD_LABEL = "Media Item: Size"
+      FIELD_URL = "cr=-3"
+      FIELD_URL_TYPE = "DERIVED"
+      FLAG_DUAL_COLUMN = false
+      FLAG_PERCENT_TOTAL = false
+      FLAG_PERCENT_INCOME = false
+      FLAG_PERCENT_EXPENSE = false
+      FLAG_RUNNING_BAL = false
+      FLAG_SHOW_OPENING_BAL = false
+      FLAG_SHOW_ABS_DIFF = false
+      FLAG_SHOW_PCT_DIFF = false
+      FLAG_SUB_TOTAL = true
+      FLAG_DISPLAY = true
+      FLAG_DROP_DECIMAL = false
+      FLAG_DIV_BY_THOUSAND = false
+      FLAG_NEG_IN_RED = false
+      FIELD_NEG_VAL_FORMAT = "norm"
+      FIELD_FORMAT = "integer"
+      FLAG_TOTAL_FORMULA = true
+    },
+  ]
+  uiPreferences = {
+    PARAMETER_CASH_BASIS = false
+    PARAMETER_TAXCASH_BASIS = "F"
+    PARAMETER_SHOW_ZEROS = true
+    PARAMETER_SHOW_SINGLEROWLINES = true
+    PARAMETER_DISPLAY_TYPE = "data"
+    PARAMETER_INC_VS_EXP = false
+    PARAMETER_GRAPH_TOP = -1
+    PARAMETER_WEB_STORE = false
+    PARAMETER_ACTIVITY_ONLY = false
+    PARAMETER_ALLOW_WEBQUERY = false
+    PARAMETER_GRAPH_3D = false
+    PARAMETER_SHOW_CURRENCY_SYMBOL = true
+    PARAMETER_EXPAND_LEVEL = 100
+  }
+  criteria = [
+    {
+      descriptor = {
+        FIELD_ALIAS = "DATELOGGED"
+        FIELD_OP_CLASS = "BETWEEN"
+        FILED_TYPE = "DATE"
+        SEQ_NUMBER = 0
+        FIELD_UNIT_TYPE = -1
+        FLAG_IN_FOOTER = true
+        FLAG_CUSTOM_FOOTER = false
+        FLAG_VIRTUAL_FIELD = false
+        FIELD_DESCRIPTOR = "hosthits,x,datelogged,x,x"
+        FLAG_IS_HIDDEN = false
+      }
+      values = [
+        {
+          FIELD_DATE_FILTER_INDEX = 0
+          SEQ_NUMBER = 0
+          FIELD_VALUE = "TM"
+        },
+      ]
+    },
+  ]
+  flags = {
+    KEY_REPORT_ID = 311
+    KEY_SCRIPT_ID = "CUSTOMREPORT_311_T2480649_515"
+    FIELD_KEY = 311
+    FIELD_CODE = "QUICK_REPORT"
+    FIELD_NAME = "Custom Hosted Page Hits Summary"
+    FIELD_ORIGINAL_TITLE = "Custom Hosted Page Hits Summary"
+    FIELD_PERM_TYPE = "REPO_WEBSITE"
+    KEY_FEATURE = "WEBHOSTING"
+    FLAG_PERIODS_ALLOWED = false
+    FLAG_DISPLAY_TYPE = "SUMMARY"
+    FLAG_ONE_DATE = false
+    FLAG_PRIMARY_OUTER_JOIN = false
+    FLAG_CUSTOM_MODE = true
+    FLAG_CASH_BASIS = false
+    FLAG_SHOW_ZEROS = true
+    FLAG_INACTIVE = false
+    FIELD_VERSION = 8
+    FLAG_PERIODS_ON = false
+    FLAG_USE_FISCAL_YEAR_RANGE = false
+    FLAG_USE_TAX_PERIODS = false
+    KEY_ENTITY = "5"
+    FLAG_SHOW_LINK = false
+    FLAG_SUPPORTS_CONSOL_SUBSIDIARY = false
+    FIELD_TOGGLE_TYPE = "NOTHING"
+    FLAG_AFFECTED_BY_COGS = false
+    FLAG_ACTIVITY_ONLY = false
+  }
+}
