@@ -9,7 +9,7 @@ netsuite.workflow customworkflow_slt_e2e_test {
   isinactive = false
   islogenabled = false
   keephistory = "ONLYWHENTESTING"
-  name = "created by oss e2e - 4514041"
+  name = "created by oss e2e - 8665022"
   recordtypes = "CASHREFUND"
   releasestatus = "NOTINITIATING"
   runasadmin = true
