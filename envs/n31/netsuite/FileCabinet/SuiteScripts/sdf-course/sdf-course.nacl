@@ -1,0 +1,9 @@
+netsuite.folder SuiteScripts_sdf_course@db {
+  bundleable = false
+  isinactive = false
+  isprivate = false
+  path = "/SuiteScripts/sdf-course"
+  _parent = [
+    netsuite.folder.instance.SuiteScripts,
+  ]
+}
